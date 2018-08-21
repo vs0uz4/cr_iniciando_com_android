@@ -1,5 +1,5 @@
 <p align="center">
-<img style="-webkit-user-select: none;" src="https://cdn.wccftech.com/wp-content/uploads/2018/01/Android-Logo.jpg">
+<img style="-webkit-user-select: none;" src="https://cdn.wccftech.com/wp-content/uploads/2018/01/Android-Logo.jpg" height="200">
 </p>
 
 ## Curso - Iniciando com Android
